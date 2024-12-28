@@ -4,12 +4,8 @@
 
 
 
-
 using System;
 using System.IO;
-
-
-
 
 // Welcome message
 static void Message()
